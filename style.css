@@ -1,0 +1,33 @@
+.heading{
+    text-align: center;
+    color: white;
+    background-color:lightpink;
+    width: 100%;
+    line-height: 3;
+    box-shadow: grey 5px 5px 5px;
+    position: fixed;
+    left: 0;
+}
+
+label{
+    font-family: cursive;
+    font-size: 23px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    color: white;
+    width: 100%;
+    background-color: pink;
+    box-shadow: lightpink 5px 5px 5px ;
+    line-height: 2;
+    text-align: center;
+    font-size: 18px;
+}
+
+canvas{
+    border: solid white 5px;
+    box-shadow: grey 5px 5px 5px;
+    border-radius: 20px;
+}
